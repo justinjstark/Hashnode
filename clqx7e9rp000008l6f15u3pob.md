@@ -12,3 +12,12 @@ This is a test.
 # Number 1
 
 Bla bla bla
+
+```csharp
+private async Task Main()
+{
+    Console.WriteLine("Hello World!");
+}
+```
+
+That is some code.
